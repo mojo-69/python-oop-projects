@@ -1,24 +1,90 @@
-# Python OOP Projects
+# 🐍 Python OOP Projects
 
-This repository contains my Python Object-Oriented Programming (OOP) practice projects.
+Welcome to my Python Object-Oriented Programming (OOP) practice repository.
 
-## Project 1: Calculator
+This repository contains the projects I built while learning Python OOP concepts from beginner to advanced.
 
-### Concepts Used
-- Class
-- Object
-- Constructor
-- Methods
-- User Input
-- If-Else
+---
 
-Status: ✅ Completed
+## 📚 Projects
 
-### ✅ Project 2 - Employee Management
+### ✅ Project 1 - Calculator
+
+**Features**
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
 **Concepts Used**
 - Class
 - Object
 - Constructor
 - Methods
+- if-elif-else
+
+---
+
+### ✅ Project 2 - Student Details
+
+**Features**
+- Add Student Details
+- Display Student Details
+- Check Adult/Minor
+
+**Concepts Used**
+- Class
+- Object
+- Constructor
+- Methods
+
+---
+
+### ✅ Project 3 - Employee Management
+
+**Features**
+- Employee Details
+- Annual Salary
+- Salary Status
+
+**Concepts Used**
+- Class
+- Object
+- Methods
 - Conditional Statements
 
+---
+
+### ✅ Project 4 - ATM Machine
+
+**Features**
+- Display Account Details
+- Deposit Money
+- Withdraw Money
+- Check Balance
+- Menu Driven Program
+
+**Concepts Used**
+- Class
+- Object
+- Methods
+- While Loop
+- if-elif-else
+
+---
+
+## 🚀 Upcoming Projects
+
+- 📚 Book Management
+- 🏦 Banking System
+- 📖 Library Management
+- 🛒 Shopping Cart
+- 🎟 Movie Ticket Booking
+- 🏥 Hospital Management
+- 🎓 Student Management System (Advanced)
+
+---
+
+## 👨‍💻 Author
+
+**Manoj Kumar**
