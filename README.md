@@ -13,3 +13,12 @@ This repository contains my Python Object-Oriented Programming (OOP) practice pr
 - If-Else
 
 Status: ✅ Completed
+
+### ✅ Project 2 - Employee Management
+**Concepts Used**
+- Class
+- Object
+- Constructor
+- Methods
+- Conditional Statements
+
