@@ -73,17 +73,6 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
-## 🚀 Upcoming Projects
-
-- 📚 Book Management
-- 🏦 Banking System
-- 📖 Library Management
-- 🛒 Shopping Cart
-- 🎟 Movie Ticket Booking
-- 🏥 Hospital Management
-- 🎓 Student Management System (Advanced)
-
----
 
 ## 👨‍💻 Author
 
