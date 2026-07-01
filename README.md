@@ -73,6 +73,32 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
+# 📚 Book Management System
+
+## 📖 Description
+
+This is a beginner-level Python Object-Oriented Programming (OOP) project for managing book information.
+
+## ✨ Features
+
+- Add Book Details
+- Display Book Details
+- Calculate Discount
+- Check Book Status (Premium/Normal)
+- Menu-Driven Program
+
+## 🛠 Concepts Used
+
+- Class
+- Object
+- Constructor (__init__)
+- Methods
+- if-elif-else
+- while Loop
+- User Input
+
+ ---  
+
 
 ## 👨‍💻 Author
 
