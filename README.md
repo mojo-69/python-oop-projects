@@ -108,6 +108,31 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
+### ✅ Project 7 - Bank Account Management
+
+**Features**
+- Display Account Details
+- Deposit Money
+- Withdraw Money
+- PIN Verification
+- Check Account Balance
+- Transaction Counter
+- Transaction History
+- Change Account Holder
+- Change PIN
+- Account Status (Normal / Premium / Gold)
+- Menu-Driven Program
+
+**Concepts Used**
+- Class
+- Object
+- Constructor
+- Methods
+- Lists
+- While Loop
+- if-elif-else
+
+---
 
   
 
