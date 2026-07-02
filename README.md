@@ -25,22 +25,9 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
-### ✅ Project 2 - Student Details
 
-**Features**
-- Add Student Details
-- Display Student Details
-- Check Adult/Minor
 
-**Concepts Used**
-- Class
-- Object
-- Constructor
-- Methods
-
----
-
-### ✅ Project 3 - Employee Management
+### ✅ Project 2 - Employee Management
 
 **Features**
 - Employee Details
@@ -55,7 +42,7 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
-### ✅ Project 4 - ATM Machine
+### ✅ Project 3 - ATM Machine
 
 **Features**
 - Display Account Details
@@ -73,7 +60,7 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
-### ✅ Project 5 - Student Management
+### ✅ Project 4 - Student Management
 
 **Features**
 - Add Student Details
@@ -89,7 +76,7 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
-### ✅ Project 6 - Book Management
+### ✅ Project 5 - Book Management
 
 **Features**
 - Add Book Details
@@ -108,7 +95,7 @@ This repository contains the projects I built while learning Python OOP concepts
 
 ---
 
-### ✅ Project 7 - Bank Account Management
+### ✅ Project 6 - Bank Account Management
 
 **Features**
 - Display Account Details
@@ -130,6 +117,30 @@ This repository contains the projects I built while learning Python OOP concepts
 - Methods
 - Lists
 - While Loop
+- if-elif-else
+
+---
+---
+
+### ✅ Project 7 - Library Management
+
+**Features**
+- Add Book
+- Show Books
+- Search Book
+- Delete Book
+- Count Total Books
+- Menu-Driven Program
+
+**Concepts Used**
+- Class
+- Object
+- Constructor
+- Methods
+- Lists
+- For Loop
+- Linear Search
+- List Operations
 - if-elif-else
 
 ---
